@@ -11,4 +11,4 @@ Hello! I am Sher Li Oh, a PhD student at Nanyang Technological University studyi
 You can find me on [LinkedIn](https://www.linkedin.com/in/sher-li-oh/), [ResearchGate](https://www.researchgate.net/profile/Sher-Li-Oh?ev=hdr_xprf), [X](https://x.com/SherLiOh), [BlueSky](https://bsky.app/profile/sherlioh.bsky.social), or here on [GitHub](https://github.com/ohsherli).
 
 ## Resume / CV
-Click [Here](ohsherli.github.io/resume) to find my CV
+Click [here](https://ohsherli.github.io/resume) to find my CV
