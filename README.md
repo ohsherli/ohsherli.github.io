@@ -1,4 +1,6 @@
-# Welcome to Sher Li's GitHub page
+# Home
+
+## Welcome to Sher Li's GitHub page
 
 ## About Me
 Hello! I am Sher Li Oh, a PhD student at Nanyang Technological University studying early mechanisms in neurodegeneration using computational biology. I have worked in various fields, including biochemistry, molecular biology, and neuroimaging. This site is a work in progress.
