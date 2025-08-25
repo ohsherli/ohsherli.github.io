@@ -1,7 +1,7 @@
 # Summarised Resume / CV
 
 ## Profile
-Final year PhD candidate at Nanyang Technological University, with a focus on neuroscience and  computational biology. Interdisciplinary researcher with experience in biochemistry, molecular biology, and neuroimaging. Personal interest in scientific communication and  in mentoring future scientists. 
+Interdisciplinary researcher with a focus on neuroscience and  computational biology and prior experience in biochemistry, molecular biology, and neuroimaging. Personal interest in scientific communication and in mentoring future scientists. 
 
 ## Education
 ### PhD, Nanyang Technological University (NTU), Singapore (Jan 2021–Jul 2025)
