@@ -17,7 +17,7 @@ Hourani, S. M., Utami, K. H., **Oh, S. L.**, Castrén, M. L., & Pouladi, M. A. (
 **Oh, S. L.\***, Cheng, L. Y.\*, J Zhou, J. F., Henke, W., & Hagen, T. (2020). Galactose 1-phosphate accumulates to high levels in galactose-treated cells due to low GALT activity and absence of product inhibition of GALK. Journal of Inherited Metabolic Disease, 43(3), 529–539. https://doi.org/10.1002/jimd.12198 (\*Shared first authorship)
 
 ## Skills
-* R and Python: Expertise in a range of bioinformatics analyses of data including bulk and single-cell RNA sequencing, single-cell ATAC-seq, ChIP-seq, and statistical analyses using R packages and pipelines.
+* R and Python: Expertise in multi-omics analyses including bulk and single-cell RNA sequencing, single-cell ATAC-seq, ChIP-seq, genomics, proteomics, and lipidomics.
 * Familiarity with Unix command line tools for data pre-processing and analysis.
 * Experienced in using high performance computing and workflow tools, e.g. Nextflow, Apptainer, SLURM.
 * Spoken and written languages: Native or bilingual proficiency in English and Mandarin (spoken and written) and limited working proficiency in French.
